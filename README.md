@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Tanya Gadwal</h1>
+<h1>Hi 👋 I'm Tanya Gadwal</h1>
 <h3 align=>A passionate ML enthusiast from India, currently in my Third Year of Computer Engineering</h3>
 
 <h3 align="left">Connect with me: </h3>
